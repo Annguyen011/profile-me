@@ -15,9 +15,9 @@
 
 body {
 	height: 100vh;
-	/* background: linear-gradient(45deg, #00853e, #50c878);
-     */
-     background-color: #b9971e94;
+	background: linear-gradient(0, #b9971e94, #ff9176);
+    
+     /* background-color: #b9971e94; */
 	display: flex;
 	justify-content: center;
 	align-items: center;
